@@ -33,7 +33,7 @@ h2 {
 }
 
 p {
- font-size: 18px;
+ font-size: 14px;
  background: #733800;
  padding: 0, 2px;
  border: 2px solid #ffffff;
@@ -58,13 +58,6 @@ h2 {
  margin: 7px 7px 0px 0px;
 }
 
-li,
-ul {
- width: 42%;
- font-size: 19px;
- font-style: italic;
-}
-
 A {
  color: #800000;
  background: #ffcccc;
@@ -82,4 +75,19 @@ A {
 .colortext1 {
  color: #000000;
  background: #858585;
+}
+
+.colortext2 {
+ color: #964B00;
+ background: #FFE5B4;
+}
+
+.colortext3 {
+ color: #ffffff;
+ background: #FF8000;
+}
+
+.colortext5 {
+ color: #ffffff;
+ background: #FF7F50;
 }
